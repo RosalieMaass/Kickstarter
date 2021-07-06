@@ -5,7 +5,7 @@ Analysis of Kickstarter data to produce a successful campaign
 * May is the month with the highest rate of successful theater Kickstarter campaigns with June as a close second and December is the least successful month for  theater Kickstarter Campaigns.
 ![image_RosalieMaass](https://github.com/RosalieMaass/Kickstarter/blob/main/Resources/Parent%20Category%20Outcome%20Chart.png)
 * Of all Categories, Theater has the highest number of successful Kickstarters, followed by Music.
-![image_RosalieMaass](Resources/Parent_Category_Outcome_Chart.png)
+![image_RosalieMaass](https://github.com/RosalieMaass/Kickstarter/blob/main/Resources/Parent%20Category%20Outcome%20Chart.png)
 ---
 # Recommendations
 - Since Theater is the most successful type of kickstarter, I would say there is a good chance Fever will be a success! 
