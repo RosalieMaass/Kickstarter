@@ -10,3 +10,4 @@ Analysis of Kickstarter data to produce a successful campaign
 # Recommendations
 - Since Theater is the most successful type of kickstarter, I would say there is a good chance Fever will be a success! 
 - I would recommend beginning the campaign in May. 
+- Try to reduce goal of campaign to closer to $5,000 if possible
